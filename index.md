@@ -1,5 +1,6 @@
-# This is an `<h1>` header, which is the largest
+# Markdown Test
 
-## This is an `<h2>` header
+## Chapter 2
 
-###### This is an `<h6>` header, which is the smallest
+###### Adding Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

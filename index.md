@@ -1,6 +1,11 @@
 # Markdown Test
 
-## Chapter 3
+## Chapter 4
+
+###### Tasklist
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ###### Language based Markdown
 
@@ -24,3 +29,8 @@ var myVar = "Hello, world!";
 ``` python
 myVar = "Hello, world!"
 ```
+
+###### Adding Image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
